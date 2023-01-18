@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
-"""
-`compdecomp` implementation
-
-@authors:
-@version: 2022.9
-"""
+# Solution by Aidan Schooling
 
 import argparse
 from binascii import unhexlify
